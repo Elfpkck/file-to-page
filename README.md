@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Elfpkck/file-to-page.svg?branch=master)](https://travis-ci.com/Elfpkck/file-to-page)
 # Implementation of a test task described in `task.pdf`
 ## Running web application
 1. Use interpreter: _python3.6+_
