@@ -11,6 +11,6 @@
 6. For production use _nginx+gunicorn_ or something similar
 
 ## Running tests
-Make sure you install libs [Step 4](#running-web-application).\
-From the project root:\
+1. Make sure you've done steps 1-4 from [Running web application](#running-web-application).\
+2. From the project root:\
 `python -m pytest tests`
