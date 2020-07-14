@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Elfpkck/file-to-page.svg?branch=master)](https://travis-ci.com/Elfpkck/file-to-page)
+[![Build Status](https://travis-ci.com/Elfpkck/file-to-page.svg?branch=master)](https://travis-ci.com/Elfpkck/file-to-page) [![codecov](https://codecov.io/gh/Elfpkck/file-to-page/branch/master/graph/badge.svg)](https://codecov.io/gh/Elfpkck/file-to-page)
 # Implementation of a test task described in `task.pdf`
 ## Running web application
 1. Use interpreter: _python3.6+_
