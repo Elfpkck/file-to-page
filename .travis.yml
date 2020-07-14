@@ -9,3 +9,5 @@ before_script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
 script:
   - pytest
+after_success:
+  - codecov
