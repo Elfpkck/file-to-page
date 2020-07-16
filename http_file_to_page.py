@@ -63,7 +63,7 @@ def get_page_from_file(file_name: str) -> str:
     """
     start = request.args.get(const.URL_QUERY_START, type=int)
     stop = request.args.get(const.URL_QUERY_STOP, type=int)
-    return prettyhtml.get_html(const.FILE_PATH / f'{file_name}', start, stop)
+    return prettyhtml.get_html(const.FILE_PATH / file_name, start, stop)
 
 
 if __name__ == "__main__":
